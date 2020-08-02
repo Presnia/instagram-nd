@@ -1,7 +1,7 @@
 {
     "name": "workshop-instagram",
-    "version": "1.0.1",
-    "author": "Andrii Mulyk <amulyk@lectrum.io>",
+    "version": "1.0.2",
+    "author": "Andrey Prisniak <aprisniak@lectrum.io>",
     "scripts": {
         "start": "react-app-rewired start",
         "build": "react-app-rewired build",
@@ -16,21 +16,21 @@
         "react-dom": "16.13.1",
         "react-spring": "8.0.27",
         "react-vanilla-tilt": "1.0.0",
-        "sanitize.css": "11.0.0"
+        "sanitize.css": "11.0.1"
     },
     "devDependencies": {
-        "@babel/core": "7.9.0",
-        "@babel/preset-env": "7.9.5",
-        "@babel/register": "7.9.0",
+        "@babel/core": "7.11.0",
+        "@babel/preset-env": "7.11.0",
+        "@babel/register": "7.10.5",
         "@lectrum/eslint-config-core": "1.1.15",
         "app-root-path": "3.0.0",
         "babel-plugin-dynamic-import-node": "2.3.3",
         "cross-env": "7.0.2",
         "customize-cra": "0.9.1",
         "moment": "2.24.0",
-        "nodegit": "0.26.5",
+        "nodegit": "0.27.0",
         "postcss-preset-env": "6.7.0",
-        "react-app-rewired": "2.1.5",
+        "react-app-rewired": "2.1.6",
         "react-scripts": "3.4.1"
     }
 }
