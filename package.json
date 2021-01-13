@@ -31,6 +31,6 @@
         "nodegit": "0.27.0",
         "postcss-preset-env": "6.7.0",
         "react-app-rewired": "2.1.6",
-        "react-scripts": "3.4.1"
+        "react-scripts": "^4.0.1"
     }
 }
